@@ -1,2 +1,4 @@
 # 5vBuckModule
-2A,small,one side
+* 2A
+* small
+* one side
